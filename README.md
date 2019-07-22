@@ -113,7 +113,7 @@ Every user can lock another, and both need to pay. It may create a autonomous sp
  
 ![image1](img/sit1.jpg)
 
-A space can sit at most 20 users, sorted by supported life.
+A space can sit at most 10 users, sorted by supported life.
 
 Note: a user locked by space owner, can not sell cards in the space.
 
