@@ -8,7 +8,7 @@ In this world, users can communicate with others, buy or sell cards. And use car
 
 [Introduction](intro.md)
 
-[Download](download.md)
+[Download](http://eosvr.io/index.html)
 
 
 ### Life

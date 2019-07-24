@@ -8,7 +8,7 @@
 
 [新手介绍](intro-cn.md)
 
-[下载](download.md)
+[下载](http://eosvr.io/index-cn.html)
 
 
 
